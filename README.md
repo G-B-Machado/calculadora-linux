@@ -24,7 +24,7 @@ chmod +x calculadora.sh
 
 2. **Operações matemáticas:**
    soma = num1 + num2
-   div = num1 / num2  # Divisão com tratamento de erro (evitar divisão por zero)
+   div = num1 / num2 
    mult = num1 * num2
    sub = num1 - num2
 
