@@ -1,3 +1,5 @@
+## 🤖 Código Python (`calc.py`)
+
 ## 🚀 Como Executar
 
 1. **Clone o repositório:**
@@ -10,5 +12,3 @@ chmod +x calculadora.sh
 
 3. **Execute:**
  ./calculadora.sh
-
-## 🤖 Código Python (`calc.py`)
