@@ -1,0 +1,13 @@
+# Comandos para executar a calculadora.sh:
+
+1. Converter o notebook Jupyter para Python (se necessário):
+   jupyter nbconvert --to script calc.pynb
+
+2. Tornar o script executável:
+   chmod +x calculadora.sh
+
+3. Definir permissões (proprietário: leitura+escrita; outros: apenas leitura):
+   chmod 644 calculadora.sh
+
+4. Executar a calculadora:
+   ./calculadora.sh
